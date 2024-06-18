@@ -1,0 +1,72 @@
+# First notebook exercise
+
+This is the introduction regarding the first notebook
+
+This is a list of data science languages
+- Python
+- R
+- Java
+- JavaScript
+- PySpark
+- Julia
+
+This is a list of data science libraries:
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- Keras
+- Matplotlib
+- SciPy
+- PyTorch
+
+This is a table with Data Science Tools:
+
+| ETL        | Visualization     | Data Management|
+|--------------|-----------|------------|
+| Talend | Tableau       |  MSSQL     |
+| Informatica      | PowerBI | IBM DB2     |
+
+Arithmetic expressions are used to perform mathematical calculations. In markdown, you can present these expressions using LaTeX syntax within double dollar signs for display mode. Here are a few examples:
+
+- Addition: a+b
+- Subtraction: a−b
+- Multiplication: a×b or a⋅b
+- Division: ba​ or a÷b
+- Exponentiation: ab
+- Square root: a​
+
+# Define the numbers
+number1 = 5
+number2 = 10
+number3 = 3
+
+# Multiply and add the numbers
+result = (number1 * number2) + number3
+
+# Print the result
+print("The result of multiplying", number1, "and", number2, "then adding", number3, "is:", result)
+
+# Define the number of minutes
+minutes = 120
+
+# Convert minutes to hours
+hours = minutes / 60
+
+# Print the result
+print(minutes, "minutes is equal to", hours, "hours.")
+
+## Objectives
+
+- Objective 1: Clearly define the goals and desired outcomes.
+- Objective 2: Identify the key performance indicators (KPIs).
+- Objective 3: Allocate resources effectively.
+- Objective 4: Establish a timeline for project milestones.
+- Objective 5: Ensure team alignment with the objectives.
+- Objective 6: Monitor progress and make adjustments as needed.
+- Objective 7: Communicate objectives and progress to stakeholders.
+- Objective 8: Evaluate the success of the objectives post-completion.
+- Objective 9: Document lessons learned and best practices.
+- Objective 10: Plan for future improvements based on the outcomes.
+
+**Author: Olivier Peters**
